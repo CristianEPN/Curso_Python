@@ -126,4 +126,4 @@ print(cadenaTexto2.startswith("Las"))
 print(cadenaTexto2.endswith("parque"))
 print(cadenaTexto2.startswith("cine"))
 
-
+print(cadenaTexto2.replace("niños","niñas").replace("Los","Las"))
